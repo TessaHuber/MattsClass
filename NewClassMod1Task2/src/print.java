@@ -7,7 +7,7 @@ public class print {
 		
 		Scanner scanner= new Scanner(System.in);
 		double regnumber;
-		System.out.println("please enter student regestraion number:");
+		System.out.println("please Enter student regestraion number:");
 		regnumber=scanner.nextDouble();
 		C.setRegnumber(regnumber); 
 		System.out.println("please enter department name:");
