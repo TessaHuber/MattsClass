@@ -1,5 +1,5 @@
 package lab2_2;
-
+ 
 public class mod2lab2task3c {
 	public static void main(String [] args){
 

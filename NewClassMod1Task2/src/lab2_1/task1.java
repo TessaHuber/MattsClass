@@ -1,6 +1,6 @@
 package lab2_1;
 
-public class task1 {
+public class task1 { 
 	public static void main(String [] args){
 	//5 * 5 + 30 / 5
 	int x=5;

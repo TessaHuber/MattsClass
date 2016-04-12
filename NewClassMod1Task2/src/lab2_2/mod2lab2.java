@@ -2,7 +2,7 @@ package lab2_2;
 	import java.util.Scanner;
 		import java.util.Arrays;
 public class mod2lab2 {
-
+ 
 	
 
 		

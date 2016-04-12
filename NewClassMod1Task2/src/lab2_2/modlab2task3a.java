@@ -11,6 +11,6 @@ public class modlab2task3a {
 		            System.out.print(" ");
 		        System.out.println();
 		    }
-		}
+		} 
 
 }
