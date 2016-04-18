@@ -5,6 +5,8 @@ public class mod2lab2task3c {
 
 		/**
 		 * These should be using arrays, not just print strings, this can be easily converted though, where you have sysouts, set the value of the array[t][k] to the value, then print the arrays out
+		 *
+		 * -- NEVER MIND -- I read the instructions. Thanks
 		 */
 		for (int t = 0; t <= 10; t++) {
             for (int k = 0; k < 10; k++) {
