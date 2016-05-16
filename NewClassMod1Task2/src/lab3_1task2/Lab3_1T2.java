@@ -18,17 +18,26 @@ public class Lab3_1T2 {
 		 
 		}
 		System.out.println(numbers);
-		
+		min(numbers);
+		max(numbers);
+	}
+		public static void min(ArrayList <Integer> numbers) {
 		Object obj = Collections.min(numbers);
 		    System.out.println("Minimum Element of Java ArrayList is : " + obj);
+		}
+		
+		public static void max(ArrayList <Integer> numbers) {
+			
 		    Object obj2 = Collections.max(numbers);
 		    System.out.println("maximum Element of Java ArrayList is : " + obj2);
 		
 	
+			}
+		
 	
 	
 	
 			
 			
-		}}
+		}
 
