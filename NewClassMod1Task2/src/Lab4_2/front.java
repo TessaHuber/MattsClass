@@ -33,6 +33,8 @@ public class front {
 		else{
 				System.out.println("The operation is not valid.");
 		}
+
+		// If you divide by 0, you are going to get an arithmetic exception, this and the next labs are to be wrapped in a try/catch block to handle those exceptions.
 }
 
 
